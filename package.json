@@ -44,7 +44,7 @@
     "shorthash": "0.0.2"
   },
   "dependencies": {
-    "@ampproject/toolbox-optimizer": "^2.5.5",
+    "@ampproject/toolbox-optimizer": "^2.9.0",
     "@saschazar/wasm-avif": "^1.0.0",
     "clean-css": "^4.2.3",
     "concurrently": "^5.2.0",
@@ -58,7 +58,7 @@
     "lru-cache": "^5.1.1",
     "mocha": "^8.1.3",
     "purge-from-html": "^1.0.3",
-    "purgecss": "^2.3.0",
+    "purgecss": "^5.0.0",
     "rollup": "^2.23.0",
     "sharp": "^0.30.5",
     "twitter": "^1.7.1",
